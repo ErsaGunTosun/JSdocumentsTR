@@ -1,0 +1,17 @@
+{
+
+    "people": [{
+            "firstname": "ersagun",
+            "lastname": "tosun"
+        },
+        {
+            "firstname": "ferah",
+            "lastname": "tosun"
+        },
+        {
+            "firstname": "fatih",
+            "lastname": "tosun"
+        }
+    ]
+
+}
